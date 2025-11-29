@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookApi", "AddressBookApi\AddressBookApi.csproj", "{4DDAEC40-D490-4E34-8FB2-5B8105929A63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityTuitionApi", "AddressBookApi\UniversityTuitionApi.csproj", "{4DDAEC40-D490-4E34-8FB2-5B8105929A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityGateway", "UniversityGateway\UniversityGateway.csproj", "{B24667D3-950C-4BE4-9F4D-45CA350719CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4DDAEC40-D490-4E34-8FB2-5B8105929A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DDAEC40-D490-4E34-8FB2-5B8105929A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DDAEC40-D490-4E34-8FB2-5B8105929A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24667D3-950C-4BE4-9F4D-45CA350719CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24667D3-950C-4BE4-9F4D-45CA350719CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24667D3-950C-4BE4-9F4D-45CA350719CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24667D3-950C-4BE4-9F4D-45CA350719CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
